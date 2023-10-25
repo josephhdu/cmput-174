@@ -1,0 +1,10 @@
+import time
+
+print("-" * 50)
+print("Remember the Word")
+print("-" *50)
+
+input('press the enter key to display the words')
+print('thanks for playing')
+time.sleep(2)
+print('hello')
